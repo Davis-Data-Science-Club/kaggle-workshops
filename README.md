@@ -4,7 +4,7 @@ Kaggle workshops to build skills and confidence in data science and machine lear
 
 ## Workshops
 
-### Workshop 1: [How to Submit a Competition Solution](workshop-1-making-a-competition-submission/)
+### Workshop 1: [How to Submit a Competition Solution](workshop-1-making-a-competition-submission/README.md)
 
 Live 03/03/2021
 
